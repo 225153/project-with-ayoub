@@ -1,0 +1,7 @@
+
+
+1) Get familiar with Platformio 
+
+2) Create a clear detailled specification for our project 
+
+3) Devide the work and nod5lo f sandi
